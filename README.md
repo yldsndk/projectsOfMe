@@ -1,2 +1,0 @@
-# projectsOfMe
-programming
